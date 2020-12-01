@@ -1,0 +1,28 @@
+|   |   "el.X",//0
+|   |   "el.Y",//1
+|   |   "el.Z",//2
+|   |   "el.UX",//3
+|   |   "el.UY",//4
+|   |   "el.UZ",//5
+|   |   "el.E",//6
+|   |   "el.F",//7
+|   |   "el.R",//8, Float_t*
+|   |   "el.EnuQE",//9
+|   |   "el.RtoWallB",//10
+|   |   "el.RtoWallF",//11
+|   |   "mu.F",//12
+|   |   "piFix.F",//13
+|   |   "piNoFix.M",//14
+|   |   //and systematic stuff
+|   |   "CV",//15
+|   |   "KpProd",//16, sw 0
+|   |   "KmProd",//17, sw 1
+|   |   "K0Prod",//18, sw 2
+|   |   "PipProd_RawAboutSW",//19, sw 3
+|   |   "PimProd_RawAboutSW",//20, sw 4
+|   |   "BeamUnisims",//21, sw 5
+|   |   "XSec",//22, sw 6
+|   |   "CCQECCpi",//23, sw 7
+|   |   "Hadronic",//24, sw 8
+|   |   "Pi0Yield",//25, sw 9
+|   |   "Dirt"//26, sw 10

@@ -1,0 +1,232 @@
+<settings_getTiming>
+		<!--test systematics -->
+		<job      
+			name             = "06omsample"
+			inputPath        = "/scratch/klin/Systematics/06May/OpticalModel_BkgMC/005/Likelihood_Final_Full_Dirtcut/may06_multisim_nueprecuts_likelihood_final_full_dirtcut.root"
+			particleName     = "electron"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/06om005sample.root"
+			logFileName      = "../data_timing_root/06om005sample.log"
+ 	></job>
+
+	<job      
+			name             = "MC_dirt_may07_numu"
+			inputPath        = "/e898-data/data60/users/echuang/data_root_files/MC_may07_2_cocktail_allhad_dirt/MC_may07_2_cocktail_allhad_dirt.root"
+			particleName     = "muon"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "1"
+			outputFileName   = "../data_timing_root/timing_MC_dirt_may07_numu.root"
+			logFileName      = "../data_timing_root/logs/timing_MC_dirt_may07_numu.log"
+ 	></job>
+
+	<!--test2 works-->
+	<job      
+			name             = "all_numu_15"
+			inputPath        = "/e898-data/Links/detMC_buffer/may2007_2_baseline/may07_2_cocktail_allhad/may07_2_cocktail_allhad_15*.root"
+			outputFileName   = "/scratch/klin/processing/MonteCarlo/NumuRich/all_numu_15.root"
+			logFileName      = "/scratch/klin/processing/MonteCarlo/Numuich/logs/all_numu_15.log"
+			particleName     = "muon"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+ 	></job>
+	
+	<job      
+			name             = "all_nu_17"
+			inputPath        = "/e898-data/Links/detMC_buffer/may2007_2_baseline/may07_2_cocktail_allhad/may07_2_cocktail_allhad_16*.root"
+			particleName     = "electron"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "/scratch/klin/processing/MonteCarlo/NueRich/all_nu_17.root"
+			logFileName      = "/scratch/klin/processing/MonteCarlo/NueRich/logs/all_nu_17.log"
+ 	></job>
+
+	<job      
+			name             = "test1"
+			inputPath        = "/scratch/condor-tmp/klin/samples/test/may07_2_cocktail_allhad_0001.root"
+			particleName     = "muon"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			verbosity        = "4" 
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/test1.root"
+			logFileName      = "../data_timing_root/test1.log"
+ 	></job>
+			<job      
+			name             = "nue_ma103"
+			inputPath        = "/scratch/condor-tmp/klin/mc_adjustment/output/MC_nue_osccut_ma103.root"
+			particleName     = "electron"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/MC_timing_nue_osccut_ma103.root"
+			logFileName      = "../data_timing_root/MC_timing_nue_osccut_ma103.log"
+ 	></job>
+
+ 	<!-- ##### MC ###### -->
+	<job      
+			name             = "MC_nu"
+			inputPath        = "/scratch/condor-tmp/klin/samples/MC/MC_nu_all_10.root"
+			particleName     = "electron"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/timing_MC_nu_10files.root"
+			logFileName      = "../data_timing_root/logs/timing_MC_nu_10files.log"
+ 	></job>
+	
+	<job      
+			name             = "MC_numu_may07_2"
+			inputPath        = "/scratch/condor-tmp/klin/samples/MC/MC_numu_nucut.root"
+			particleName     = "muon"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/timing_MC_numu.root"
+			logFileName      = "../data_timing_root/logs/timing_MC_numu.log"
+ 	></job>
+	<job      
+			name             = "MC_nue_may07_2"
+			inputPath        = "/scratch/klin/MonteCarlo/mcnu_miniboone_may07nue_osc.root"
+			particleName     = "electron"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/timing2.0_MC_nue_may07_2.root"
+			logFileName      = "../data_timing_root/logs/timing2.0_MC_nue_may07_2.log"
+ 	></job>
+	<job      
+			name             = "MC_fullosc_may07_2"
+			inputPath        = "/scratch/klin/MonteCarlo/mcnu_miniboone_may07fullosc_osc.root"
+			particleName     = "electron"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/timing2.0_MC_fullosc_may07_2.root"
+			logFileName      = "../data_timing_root/logs/timing2.0_MC_fullosc_may07_2.log"
+ 	></job>
+	<job      
+			name             = "MC_dirt_may07_2"
+			inputPath        = "/e898-data/data60/users/echuang/data_root_files/MC_may07_2_cocktail_allhad_dirt/MC_may07_2_cocktail_allhad_dirt.root"
+			particleName     = "electron"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "1"
+			outputFileName   = "../data_timing_root/timing_MC_dirt_may07_2.root"
+			logFileName      = "../data_timing_root/logs/timing_MC_dirt_may07_2.log"
+ 	></job>
+	<job      
+			name             = "MC_pi0_may07_2"
+			inputPath        = "/scratch/klin/MonteCarlo/TTree_MiniBooNE/pi0/MC_pi0_may07_2.root"
+			particleName     = "pion"
+			timingCorrection = "8.693902"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/timing_MC_pi0_may07_2.root"
+			logFileName      = "../data_timing_root/logs/timing_MC_pi0_may07_2.log"
+ 	></job>
+
+
+	<!-- ##### Data Nubar ####### -->
+	<job      
+			name             = "data_numubar"
+			inputPath        = "/Users/enchuan/working/MiniBooNE/dataProcess/data_ntuples/data_numubar_ntuple_jul07_2.root"
+			particleName     = "muon"
+			timingCorrection = "0"
+			MCMode           = "0"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/timing_data_numubar.root"
+			logFileName      = "../data_timing_root/logs/timing_data_numubar.log"
+ 	></job>
+	<job      
+			name             = "data_nuebar"
+			inputPath        = "/Users/enchuan/working/MiniBooNE/dataProcess/data_ntuples/data_nuebar_ntuple_11.27.root"
+			particleName     = "electron"
+			timingCorrection = "0"
+			MCMode           = "0"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/timing_data_nuebar.root"
+			logFileName      = "../data_timing_root/logs/timing_data_nuebar.log"
+ 	></job>
+	<job      
+			name             = "data_pi0_nubar"
+			inputPath        = "/Users/enchuan/working/MiniBooNE/dataProcess/data_ntuples/data_pi0_nubar11.27.root"
+			particleName     = "pion"
+			timingCorrection = "0"
+			MCMode           = "0"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/timing_data_pi0_nubar.root"
+			logFileName      = "../data_timing_root/logs/timing_data_pi0_nubar.log"
+ 	></job>
+
+
+
+
+ 	<!-- ##### MC Nubar ###### -->
+	<job      
+			name             = "MC_nuebar_may07_2"
+			inputPath        = "/scratch/klin/MonteCarlo/TTree_MiniBooNE/antinu/antinu_nue_BkgMC.root"
+			particleName     = "electron"
+			timingCorrection = "9"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			verbosity        = "4"
+			outputFileName   = "/scratch/klin/MonteCarlo/TTree_TTiming/timing2.0_MC_nuebar_may07.root"
+			logFileName      = "/scratch/klin/MonteCarlo/TTree_TTiming/timing2.0_MC_nuebar_may07.log"
+ 	></job>
+
+	<job      
+			name             = "MC_nubar_fullosc_may07_2"
+			inputPath        = "/scratch/klin/MonteCarlo/TTree_MiniBooNE/antinu/antinu_fullosc.root"
+			particleName     = "electron"
+			timingCorrection = "9"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "/scratch/klin/MonteCarlo/TTree_TTiming/antinu/timing2.0_MC_nuebar_fullosc_may07.root"
+			logFileName      = "../data_timing_root/logs/timing_MC_nubar_fullosc_may07_2.log"
+ 	></job>
+	<job      
+			name             = "MC_nubar_dirt_may07_2"
+			inputPath        = "/scratch/klin/MonteCarlo/TTree_MiniBooNE/antinu/antinu_nue_dirt.root"
+			particleName     = "electron"
+			timingCorrection = "9"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "1"
+			outputFileName   = "/scratch/klin/MonteCarlo/TTree_TTiming/timing2.0_MC_nuebar_dirt_may07.root"
+			logFileName      = "/scratch/klin/MonteCarlo/TTree_TTiming/timing2.0_MC_nuebar_dirt_may07.log"
+ 	></job>
+ 		<job      
+			name             = "MC_numubar_may07_2"
+			inputPath        = "/Users/enchuan/working/MiniBooNE/dataProcess/data_ntuples/MC_may07_2_cocktail_nubar_allhad_numu.root"
+			particleName     = "muon"
+			timingCorrection = "9"
+			MCMode           = "1"
+			usefiber         = "0"
+			cutdirt          = "0"
+			outputFileName   = "../data_timing_root/timing_MC_numubar_may07_2.root"
+			logFileName      = "../data_timing_root/logs/timing_MC_numubar_may07_2.log"
+ 	></job>
+
+</settings_getTiming>

@@ -1,0 +1,33 @@
+<settings_getTiming>
+	<!-- ##### Monte Carlo ####### -->
+	<job    
+			verbosity        = "2"
+			name             = "all_nu_osccut_13"
+			inputPath        = "/e898-data/Links/detMC_buffer/may2007_2_baseline/may07_2_cocktail_allhad/may07_2_cocktail_allhad_13*.root"
+			outputFileName   = "/scratch/klin/processing/MonteCarlo/NueRich_OscCut/all_nu_osccut_13.root"
+			logFileName      = "/scratch/klin/processing/MonteCarlo/NueRich/logs/all_nu_13.log"
+			particleName     = "electron"
+			MCMode           = "1"
+			filter1          = "reco_e_radius_lt_500"
+			filter2          = "reco_mu_endpoint_lt_488"
+			filter3          = "deltanll_e_mu_osc"
+			filter4          = "deltanll_e_mu_osc_E_p2pct"
+			filter5          = "deltanll_e_mu_osc_E_n2pct"
+			filter6          = "reco_mass_osc"
+			filter7			  = "deltanll_e_mu_osc_E_n2pct_NLL_p001"
+			filter8			  = "deltanll_e_mu_osc_E_p2pct_NLL_n001"
+			filter9          = "reco_mass_osc_EM_p2pct"
+			filter10          = "reco_mass_osc_EM_n2pct"
+			filter11         = "deltanll_e_pi_osc"
+			filter12         = "deltanll_e_pi_osc_E_p2pct"
+			filter13         = "deltanll_e_pi_osc_E_n2pct"
+			filter14         = "deltanll_e_pi_osc_E_n2pct_NLL_p001"
+			filter15         = "deltanll_e_pi_osc_E_p2pct_NLL_n001"
+			filter16         = "reco_high_evis"
+			filter17         = "rtowall_lowe_cut"
+			filter18         = "rtowall_lowe_cut_E_p2pct"
+			filter19         = "rtowall_lowe_cut_E_n2pct"
+			timingCorrection = "8.693902"
+ 	></job>
+
+</settings_getTiming>

@@ -1,0 +1,1388 @@
+******************************************************************************
+*Tree    :TTiming   : Timing Info                                            *
+*Entries :        0 : Total =          158546 bytes  File  Size =          0 *
+*        :          : Tree compression factor =   1.00                       *
+******************************************************************************
+*Branch  :el.                                                                *
+*Entries :        0 : BranchElement (see below)                              *
+*............................................................................*
+*Br    0 :el.TObject.fUniqueID : UInt_t                                      *
+*Entries :        0 : Total  Size=        549 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    1 :el.TObject.fBits : UInt_t                                          *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    2 :el.iterations : Int_t                                              *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    3 :el.trackType : Int_t                                               *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    4 :el.X      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    5 :el.Y      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    6 :el.Z      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    7 :el.UX     : Float_t                                                *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    8 :el.UY     : Float_t                                                *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    9 :el.UZ     : Float_t                                                *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   10 :el.T      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   11 :el.E      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   12 :el.distToMeanCer : Float_t                                         *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   13 :el.fluxScale : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   14 :el.relativeSci : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   15 :el.F      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   16 :el.R      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   17 :el.REnd   : Float_t                                                *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   18 :el.UdotR  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   19 :el.NormUdotR : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   20 :el.RtoWallF : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   21 :el.RtoWallB : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   22 :el.TransR : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   23 :el.cosTheta : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   24 :el.thetaZ : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   25 :el.EnuQE  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   26 :el.EnuQEOrig : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   27 :el.EnuQERyan : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   28 :el.EnuQ2  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   29 :el.Qpaper : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   30 :el.RtoWallCutLine : Float_t                                        *
+*Entries :        0 : Total  Size=        537 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   31 :el.XDiff  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   32 :el.YDiff  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   33 :el.TrackBeamRadius : Float_t                                       *
+*Entries :        0 : Total  Size=        541 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   34 :el.XODiff : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   35 :el.YODiff : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   36 :el.dtZ    : Float_t                                                *
+*Entries :        0 : Total  Size=        493 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   37 :el.dtR    : Float_t                                                *
+*Entries :        0 : Total  Size=        493 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   38 :el.dtEDrive : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   39 :el.dtCorr : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   40 :el.T_RWMZ : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   41 :el.T_RWMR : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   42 :el.T_RWMZ_Bunch : Float_t                                          *
+*Entries :        0 : Total  Size=        529 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   43 :el.T_RWMR_Bunch : Float_t                                          *
+*Entries :        0 : Total  Size=        529 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   44 :el.NBKZ   : Int_t                                                  *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   45 :el.NBKR   : Int_t                                                  *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   46 :el.MCMode : Bool_t                                                 *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   47 :el.MC_dZ  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   48 :el.MC_dtRec : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   49 :el.MC_dtZ : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   50 :el.MC_dtDcy : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Branch  :mu.                                                                *
+*Entries :        0 : BranchElement (see below)                              *
+*............................................................................*
+*Br   51 :mu.TObject.fUniqueID : UInt_t                                      *
+*Entries :        0 : Total  Size=        549 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   52 :mu.TObject.fBits : UInt_t                                          *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   53 :mu.iterations : Int_t                                              *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   54 :mu.trackType : Int_t                                               *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   55 :mu.X      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   56 :mu.Y      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   57 :mu.Z      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   58 :mu.UX     : Float_t                                                *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   59 :mu.UY     : Float_t                                                *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   60 :mu.UZ     : Float_t                                                *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   61 :mu.T      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   62 :mu.E      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   63 :mu.distToMeanCer : Float_t                                         *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   64 :mu.fluxScale : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   65 :mu.relativeSci : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   66 :mu.F      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   67 :mu.R      : Float_t                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   68 :mu.REnd   : Float_t                                                *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   69 :mu.UdotR  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   70 :mu.NormUdotR : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   71 :mu.RtoWallF : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   72 :mu.RtoWallB : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   73 :mu.TransR : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   74 :mu.cosTheta : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   75 :mu.thetaZ : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   76 :mu.EnuQE  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   77 :mu.EnuQEOrig : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   78 :mu.EnuQERyan : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   79 :mu.EnuQ2  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   80 :mu.Qpaper : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   81 :mu.RtoWallCutLine : Float_t                                        *
+*Entries :        0 : Total  Size=        537 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   82 :mu.XDiff  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   83 :mu.YDiff  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   84 :mu.TrackBeamRadius : Float_t                                       *
+*Entries :        0 : Total  Size=        541 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   85 :mu.XODiff : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   86 :mu.YODiff : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   87 :mu.dtZ    : Float_t                                                *
+*Entries :        0 : Total  Size=        493 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   88 :mu.dtR    : Float_t                                                *
+*Entries :        0 : Total  Size=        493 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   89 :mu.dtEDrive : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   90 :mu.dtCorr : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   91 :mu.T_RWMZ : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   92 :mu.T_RWMR : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   93 :mu.T_RWMZ_Bunch : Float_t                                          *
+*Entries :        0 : Total  Size=        529 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   94 :mu.T_RWMR_Bunch : Float_t                                          *
+*Entries :        0 : Total  Size=        529 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   95 :mu.NBKZ   : Int_t                                                  *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   96 :mu.NBKR   : Int_t                                                  *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   97 :mu.MCMode : Bool_t                                                 *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   98 :mu.MC_dZ  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   99 :mu.MC_dtRec : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  100 :mu.MC_dtZ : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  101 :mu.MC_dtDcy : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Branch  :piFix.                                                             *
+*Entries :        0 : BranchElement (see below)                              *
+*............................................................................*
+*Br  102 :piFix.TObject.fUniqueID : UInt_t                                   *
+*Entries :        0 : Total  Size=        561 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  103 :piFix.TObject.fBits : UInt_t                                       *
+*Entries :        0 : Total  Size=        545 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  104 :piFix.trackType1 : Int_t                                           *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  105 :piFix.trackType2 : Int_t                                           *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  106 :piFix.X   : Float_t                                                *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  107 :piFix.Y   : Float_t                                                *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  108 :piFix.Z   : Float_t                                                *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  109 :piFix.T   : Float_t                                                *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  110 :piFix.M   : Float_t                                                *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  111 :piFix.CosOp : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  112 :piFix.UX1 : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  113 :piFix.UY1 : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  114 :piFix.UZ1 : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  115 :piFix.E1  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  116 :piFix.distToMeanCer1 : Float_t                                     *
+*Entries :        0 : Total  Size=        549 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  117 :piFix.S1  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  118 :piFix.UX2 : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  119 :piFix.UY2 : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  120 :piFix.UZ2 : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  121 :piFix.E2  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  122 :piFix.distToMeanCer2 : Float_t                                     *
+*Entries :        0 : Total  Size=        549 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  123 :piFix.S2  : Float_t                                                *
+*Entries :        0 : Total  Size=        501 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  124 :piFix.fluxScale : Float_t                                          *
+*Entries :        0 : Total  Size=        529 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  125 :piFix.relativeSci : Float_t                                        *
+*Entries :        0 : Total  Size=        537 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  126 :piFix.Fqqq : Float_t                                               *
+*Entries :        0 : Total  Size=        509 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  127 :piFix.Fttt : Float_t                                               *
+*Entries :        0 : Total  Size=        509 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  128 :piFix.F   : Float_t                                                *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  129 :piFix.fixedMass : Bool_t                                           *
+*Entries :        0 : Total  Size=        529 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  130 :piFix.pi0mom : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  131 :piFix.R   : Float_t                                                *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  132 :piFix.REnd1 : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  133 :piFix.REnd2 : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  134 :piFix.UdotR1 : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  135 :piFix.UdotR2 : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  136 :piFix.NormUdotR1 : Float_t                                         *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  137 :piFix.NormUdotR2 : Float_t                                         *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  138 :piFix.RtoWallF : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  139 :piFix.RtoWallB : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  140 :piFix.TransR : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  141 :piFix.cosTheta : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  142 :piFix.thetaZ : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  143 :piFix.EnuQE : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  144 :piFix.EnuQEOrig : Float_t                                          *
+*Entries :        0 : Total  Size=        529 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  145 :piFix.EnuQERyan : Float_t                                          *
+*Entries :        0 : Total  Size=        529 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  146 :piFix.EnuQ2 : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  147 :piFix.Qpaper : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  148 :piFix.XDiff : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  149 :piFix.YDiff : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  150 :piFix.TrackBeamRadius : Float_t                                    *
+*Entries :        0 : Total  Size=        553 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  151 :piFix.XODiff : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  152 :piFix.YODiff : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  153 :piFix.dtZ : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  154 :piFix.dtR : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  155 :piFix.dtEDrive : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  156 :piFix.dtCorr : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  157 :piFix.T_RWMZ : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  158 :piFix.T_RWMR : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  159 :piFix.T_RWMZ_Bunch : Float_t                                       *
+*Entries :        0 : Total  Size=        541 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  160 :piFix.T_RWMR_Bunch : Float_t                                       *
+*Entries :        0 : Total  Size=        541 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  161 :piFix.NBKZ : Int_t                                                 *
+*Entries :        0 : Total  Size=        509 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  162 :piFix.NBKR : Int_t                                                 *
+*Entries :        0 : Total  Size=        509 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  163 :piFix.MCMode : Bool_t                                              *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  164 :piFix.MC_dtRec : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  165 :piFix.MC_dZ : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  166 :piFix.MC_dtZ : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Branch  :piNoFix.                                                           *
+*Entries :        0 : BranchElement (see below)                              *
+*............................................................................*
+*Br  167 :piNoFix.TObject.fUniqueID : UInt_t                                 *
+*Entries :        0 : Total  Size=        569 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  168 :piNoFix.TObject.fBits : UInt_t                                     *
+*Entries :        0 : Total  Size=        553 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  169 :piNoFix.trackType1 : Int_t                                         *
+*Entries :        0 : Total  Size=        541 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  170 :piNoFix.trackType2 : Int_t                                         *
+*Entries :        0 : Total  Size=        541 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  171 :piNoFix.X : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  172 :piNoFix.Y : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  173 :piNoFix.Z : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  174 :piNoFix.T : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  175 :piNoFix.M : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  176 :piNoFix.CosOp : Float_t                                            *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  177 :piNoFix.UX1 : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  178 :piNoFix.UY1 : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  179 :piNoFix.UZ1 : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  180 :piNoFix.E1 : Float_t                                               *
+*Entries :        0 : Total  Size=        509 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  181 :piNoFix.distToMeanCer1 : Float_t                                   *
+*Entries :        0 : Total  Size=        557 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  182 :piNoFix.S1 : Float_t                                               *
+*Entries :        0 : Total  Size=        509 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  183 :piNoFix.UX2 : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  184 :piNoFix.UY2 : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  185 :piNoFix.UZ2 : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  186 :piNoFix.E2 : Float_t                                               *
+*Entries :        0 : Total  Size=        509 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  187 :piNoFix.distToMeanCer2 : Float_t                                   *
+*Entries :        0 : Total  Size=        557 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  188 :piNoFix.S2 : Float_t                                               *
+*Entries :        0 : Total  Size=        509 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  189 :piNoFix.fluxScale : Float_t                                        *
+*Entries :        0 : Total  Size=        537 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  190 :piNoFix.relativeSci : Float_t                                      *
+*Entries :        0 : Total  Size=        545 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  191 :piNoFix.Fqqq : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  192 :piNoFix.Fttt : Float_t                                             *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  193 :piNoFix.F : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  194 :piNoFix.fixedMass : Bool_t                                         *
+*Entries :        0 : Total  Size=        537 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  195 :piNoFix.pi0mom : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  196 :piNoFix.R : Float_t                                                *
+*Entries :        0 : Total  Size=        505 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  197 :piNoFix.REnd1 : Float_t                                            *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  198 :piNoFix.REnd2 : Float_t                                            *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  199 :piNoFix.UdotR1 : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  200 :piNoFix.UdotR2 : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  201 :piNoFix.NormUdotR1 : Float_t                                       *
+*Entries :        0 : Total  Size=        541 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  202 :piNoFix.NormUdotR2 : Float_t                                       *
+*Entries :        0 : Total  Size=        541 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  203 :piNoFix.RtoWallF : Float_t                                         *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  204 :piNoFix.RtoWallB : Float_t                                         *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  205 :piNoFix.TransR : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  206 :piNoFix.cosTheta : Float_t                                         *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  207 :piNoFix.thetaZ : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  208 :piNoFix.EnuQE : Float_t                                            *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  209 :piNoFix.EnuQEOrig : Float_t                                        *
+*Entries :        0 : Total  Size=        537 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  210 :piNoFix.EnuQERyan : Float_t                                        *
+*Entries :        0 : Total  Size=        537 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  211 :piNoFix.EnuQ2 : Float_t                                            *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  212 :piNoFix.Qpaper : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  213 :piNoFix.XDiff : Float_t                                            *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  214 :piNoFix.YDiff : Float_t                                            *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  215 :piNoFix.TrackBeamRadius : Float_t                                  *
+*Entries :        0 : Total  Size=        561 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  216 :piNoFix.XODiff : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  217 :piNoFix.YODiff : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  218 :piNoFix.dtZ : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  219 :piNoFix.dtR : Float_t                                              *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  220 :piNoFix.dtEDrive : Float_t                                         *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  221 :piNoFix.dtCorr : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  222 :piNoFix.T_RWMZ : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  223 :piNoFix.T_RWMR : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  224 :piNoFix.T_RWMZ_Bunch : Float_t                                     *
+*Entries :        0 : Total  Size=        549 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  225 :piNoFix.T_RWMR_Bunch : Float_t                                     *
+*Entries :        0 : Total  Size=        549 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  226 :piNoFix.NBKZ : Int_t                                               *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  227 :piNoFix.NBKR : Int_t                                               *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  228 :piNoFix.MCMode : Bool_t                                            *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  229 :piNoFix.MC_dtRec : Float_t                                         *
+*Entries :        0 : Total  Size=        533 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  230 :piNoFix.MC_dZ : Float_t                                            *
+*Entries :        0 : Total  Size=        521 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  231 :piNoFix.MC_dtZ : Float_t                                           *
+*Entries :        0 : Total  Size=        525 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      16000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  232 :runno     : runno/I                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  233 :subrunno  : subrunno/I                                             *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  234 :eventno   : eventno/I                                              *
+*Entries :        0 : Total  Size=        493 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  235 :particleMode : particleMode/I                                      *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  236 :particleName : string                                              *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  237 :MW875H    : MW875H/F                                               *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  238 :MW875V    : MW875V/F                                               *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  239 :MW876H    : MW876H/F                                               *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  240 :MW876V    : MW876V/F                                               *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  241 :dHorG     : dHorG/F                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  242 :dVerG     : dVerG/F                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  243 :HorAngle  : HorAngle/F                                             *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  244 :VerAngle  : VerAngle/F                                             *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  245 :XProj     : XProj/F                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  246 :YProj     : YProj/F                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  247 :XBeam     : XBeam/F                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  248 :YBeam     : YBeam/F                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  249 :dtBunchOffset : dtBunchOffset/F                                    *
+*Entries :        0 : Total  Size=        517 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  250 :dtRWMRawTime : dtRWMRawTime/F                                      *
+*Entries :        0 : Total  Size=        513 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  251 :tRWM1544  : tRWM1544/F                                             *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  252 :tRWM1545  : tRWM1545/F                                             *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  253 :tRWM1546  : tRWM1546/F                                             *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  254 :tRWM1549  : tRWM1549/F                                             *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  255 :tRWM1552  : tRWM1552/F                                             *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  256 :GMST      : GMST/F                                                 *
+*Entries :        0 : Total  Size=        481 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  257 :GMSTDays  : GMSTDays/F                                             *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  258 :GMST24    : GMST24/F                                               *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  259 :SECS      : SECS/I                                                 *
+*Entries :        0 : Total  Size=        481 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  260 :MSECS     : MSECS/I                                                *
+*Entries :        0 : Total  Size=        485 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  261 :MC_T      : MC_T/F                                                 *
+*Entries :        0 : Total  Size=        481 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  262 :MC_X      : MC_X/F                                                 *
+*Entries :        0 : Total  Size=        481 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  263 :MC_Y      : MC_Y/F                                                 *
+*Entries :        0 : Total  Size=        481 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  264 :MC_Z      : MC_Z/F                                                 *
+*Entries :        0 : Total  Size=        481 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  265 :dtRF      : dtRF/F                                                 *
+*Entries :        0 : Total  Size=        481 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  266 :dtInstr   : dtInstr/F                                              *
+*Entries :        0 : Total  Size=        493 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  267 :dtCorr    : dtCorr/F                                               *
+*Entries :        0 : Total  Size=        489 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  268 :vec_RWM   : vector<float>                                          *
+*Entries :        0 : Total  Size=        497 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+     1.604      1.159      0.158      1.604      1.000
+     1.604      0.913      0.141      1.604      1.000
+     1.604      1.122      0.661      1.604      1.000
+     1.604      1.449      0.220      1.604      1.000
+     1.604      1.450      0.195      1.604      1.000
+     1.604      1.847      0.242      1.604      1.000
+     1.604      0.929      0.245      1.604      1.000
+     1.604      0.988      0.264      1.604      1.000
+     1.604      1.200      0.593      1.604      1.000
+     1.604      0.528      0.302      1.604      1.000
+     1.604      0.965      0.196      1.604      1.000
+     1.604      0.879      0.400      1.604      1.000
+     1.604      1.677      0.737      1.604      1.000
+     1.604      1.416      0.395      1.604      1.000
+     1.604      0.709      0.227      1.604      1.000
+     1.604      1.987      0.193      1.604      1.000
+     1.604      0.877      0.235      1.604      1.000
+     1.604      2.495      1.755      1.604      1.000
+     1.604      1.124      0.342      1.604      1.000
+     1.604      0.589      0.336      1.604      1.000
+     1.604      0.529      0.187      1.604      1.000
+     1.604      1.411      0.258      1.604      1.000
+     1.604      1.234      0.171      1.604      1.000
+     1.604      1.217      0.870      1.604      1.000
+     1.604      0.561      0.228      1.604      1.000
+     1.604      3.208      0.455      1.604      1.000
+     1.604      1.215      0.201      1.604      1.000
+     1.604      1.944      0.400      1.604      1.000
+     1.604      1.285      0.178      1.604      1.000
+     1.604      1.589      0.185      1.604      1.000
+     1.604      2.758      0.946      1.604      1.000
+     1.604      1.939      0.804      1.604      1.000
+     1.604      0.793      0.180      1.604      1.000
+     1.604      1.095      0.589      1.604      1.000
+     1.033      1.501      0.207      1.604      0.644
+     1.604      0.493      0.189      1.604      1.000
+     1.604      0.770      0.433      1.604      1.000
+     1.604      1.942      0.242      1.604      1.000
+     1.237      0.568      0.214      1.604      0.771
+     1.604      2.655      0.233      1.604      1.000
+     1.604      1.657      0.155      1.604      1.000
+     1.604      1.457      0.514      1.604      1.000
+     1.604      1.379      0.255      1.604      1.000
+     1.604      1.364      0.156      1.604      1.000
+     1.604      1.868      0.508      1.604      1.000
+     1.604      0.708      0.242      1.604      1.000
+     1.127      0.891      0.320      1.604      0.702
+     1.604      0.876      0.375      1.604      1.000
+     1.049      0.820      0.455      1.604      0.654
+     1.604      1.818      0.308      1.604      1.000
+     1.604      1.091      0.364      1.604      1.000
+     1.604      2.355      0.253      1.604      1.000
+     1.604      2.746      0.209      1.604      1.000
+     1.604      0.834      0.367      1.604      1.000
+     1.604      1.741      0.305      1.604      1.000
+     1.604      0.857      0.414      1.604      1.000
+     1.604      1.789      0.422      1.604      1.000
+     1.604      1.750      0.222      1.604      1.000
+     1.047      1.292      0.235      1.604      0.653
+     1.604      1.079      0.254      1.604      1.000
+     1.604      1.580      0.596      1.604      1.000
+     0.932      1.706      0.239      1.604      0.581
+     1.604      1.135      0.811      1.604      1.000
+     1.604      1.649      0.510      1.604      1.000
+     1.604      1.781      0.643      1.604      1.000
+     1.604      2.055      1.016      1.604      1.000
+     1.604      1.415      0.436      1.604      1.000
+     1.604      1.251      0.272      1.604      1.000
+     1.604      1.604      0.205      1.604      1.000
+     1.604      1.940      0.576      1.604      1.000
+     1.604      0.967      0.181      1.604      1.000
+     1.604      1.405      0.509      1.604      1.000
+     1.604      2.120      0.655      1.604      1.000
+     1.604      2.200      0.287      1.604      1.000
+     1.604      1.268      0.209      1.604      1.000
+     1.604      0.919      0.253      1.604      1.000
+     1.604      2.943      0.300      1.604      1.000
+     1.182      0.915      0.241      1.604      0.737
+     1.604      1.260      0.506      1.604      1.000
+     1.604      1.119      0.264      1.604      1.000
+     1.604      0.976      0.169      1.604      1.000
+     1.149      0.681      0.220      1.604      0.716
+     1.086      1.015      0.642      1.604      0.677
+     1.604      2.004      0.546      1.604      1.000
+     1.604      0.366      0.160      1.604      1.000
+     1.064      1.998      0.463      1.604      0.663
+     1.604      2.664      0.442      1.604      1.000
+     1.562      0.657      0.469      1.604      0.974
+     1.604      1.780      0.302      1.604      1.000
+     1.604      0.833      0.280      1.604      1.000
+     1.604      1.042      0.211      1.604      1.000
+     1.604      1.657      1.329      1.604      1.000
+     1.604      0.830      0.541      1.604      1.000
+     1.604      2.161      0.459      1.604      1.000
+     1.604      1.132      0.291      1.604      1.000
+     1.604      0.567      0.419      1.604      1.000
+     1.604      1.397      0.457      1.604      1.000
+     1.604      0.819      0.182      1.604      1.000
+     1.604      1.290      0.648      1.604      1.000
+     1.604      1.310      0.332      1.604      1.000
+     1.604      0.764      0.284      1.604      1.000
+     1.604      0.521      0.237      1.604      1.000
+     0.922      1.553      0.495      1.604      0.575
+     1.604      1.373      0.466      1.604      1.000
+     1.604      1.363      0.260      1.604      1.000
+     1.604      1.266      0.178      1.604      1.000
+     1.604      1.537      1.076      1.604      1.000
+     1.604      1.600      0.220      1.604      1.000
+     1.604      1.921      0.746      1.604      1.000
+     1.604      4.170      0.217      1.604      1.000
+     1.604      1.197      0.851      1.604      1.000
+     1.604      1.428      0.175      1.604      1.000
+     1.604      0.630      0.366      1.604      1.000
+     1.604      3.728      0.962      1.604      1.000
+     1.604      0.954      0.197      1.604      1.000
+     1.185      1.202      0.457      1.604      0.739
+     1.604      0.721      0.288      1.604      1.000
+     1.604      1.393      0.197      1.604      1.000
+     1.604      0.780      0.366      1.604      1.000
+     1.604      1.297      0.407      1.604      1.000
+     1.604      1.722      0.398      1.604      1.000
+     1.604      1.746      0.505      1.604      1.000
+     1.604      2.281      0.223      1.604      1.000
+     1.604      2.083      0.569      1.604      1.000
+     1.604      0.546      0.219      1.604      1.000
+     1.604      0.968      0.252      1.604      1.000
+     1.604      0.409      0.239      1.604      1.000
+     1.604      0.837      0.532      1.604      1.000
+     1.604      2.980      0.164      1.604      1.000
+     1.604      2.169      0.654      1.604      1.000
+     0.963      1.474      0.331      1.604      0.601
+     1.604      1.061      0.563      1.604      1.000
+     1.604      2.197      0.726      1.604      1.000
+     1.604      1.744      0.369      1.604      1.000
+     1.604      1.083      0.156      1.604      1.000
+     1.604      1.564      1.245      1.604      1.000
+     1.604      1.556      0.460      1.604      1.000
+     1.604      1.457      0.294      1.604      1.000
+     1.604      2.756      0.392      1.604      1.000
+     1.604      1.602      0.428      1.604      1.000
+     1.604      2.205      0.208      1.604      1.000
+     1.087      1.055      0.475      1.604      0.678
+     1.604      1.548      0.229      1.604      1.000
+     1.604      0.728      0.288      1.604      1.000
+     1.604      0.800      0.153      1.604      1.000
+     1.604      0.934      0.245      1.604      1.000
+     1.604      1.341      0.171      1.604      1.000
+     1.604      2.516      0.601      1.604      1.000
+     1.604      1.147      0.232      1.604      1.000
+     1.604      1.412      0.295      1.604      1.000
+     1.604      1.795      0.369      1.604      1.000
+     0.937      1.304      0.757      1.604      0.584
+     1.604      1.800      0.399      1.604      1.000
+     1.604      1.296      0.597      1.604      1.000
+     1.604      1.447      0.244      1.604      1.000
+     1.604      0.994      0.680      1.604      1.000
+     1.604      1.991      0.254      1.604      1.000
+     1.604      1.162      0.364      1.604      1.000
+     1.604      1.000      0.218      1.604      1.000
+     1.604      1.144      0.523      1.604      1.000
+     1.604      0.539      0.395      1.604      1.000
+     1.604      0.850      0.276      1.604      1.000
+     1.604      3.927      0.421      1.604      1.000
+     1.604      0.464      0.270      1.604      1.000
+     1.604      1.100      0.672      1.604      1.000
+     1.604      1.625      0.503      1.604      1.000
+     1.604      1.042      0.170      1.604      1.000
+     1.604      1.855      0.294      1.604      1.000
+     1.604      1.623      0.260      1.604      1.000
+     1.604      0.813      0.274      1.604      1.000
+     1.604      1.563      0.146      1.604      1.000
+     1.604      1.208      0.577      1.604      1.000
+     1.604      4.686      0.491      1.604      1.000
+     1.604      1.307      0.545      1.604      1.000
+     1.604      2.156      0.165      1.604      1.000
+     1.604      1.112      0.191      1.604      1.000
+     1.324      0.943      0.303      1.604      0.826
+     1.604      2.702      0.197      1.604      1.000
+     1.604      1.223      0.419      1.604      1.000
+     1.604      2.244      0.181      1.604      1.000
+     1.604      1.734      0.486      1.604      1.000
+     1.604      1.144      0.217      1.604      1.000
+     1.604      1.458      0.169      1.604      1.000
+     1.604      1.142      0.621      1.604      1.000
+     1.604      1.761      0.404      1.604      1.000
+     1.604      1.018      0.151      1.604      1.000
+     1.604      0.896      0.297      1.604      1.000
+     1.604      0.538      0.246      1.604      1.000
+     1.094      1.549      0.670      1.604      0.682
+     1.604      1.052      0.250      1.604      1.000
+     1.604      2.333      0.670      1.604      1.000
+     1.604      0.844      0.871      1.604      1.000
+     1.604      1.422      0.304      1.604      1.000
+     1.604      0.815      0.254      1.604      1.000
+     1.604      1.178      0.240      1.604      1.000
+     1.094      0.981      0.419      1.604      0.682
+     1.604      0.730      0.239      1.604      1.000
+     1.604      1.112      0.204      1.604      1.000
+     1.703      1.140      0.401      1.604      1.062
+     1.604      1.164      0.258      1.604      1.000
+     1.604      0.995      0.155      1.604      1.000
+     1.604      3.207      0.417      1.604      1.000
+     1.604      1.513      0.334      1.604      1.000
+     1.604      2.570      0.298      1.604      1.000
+     1.604      1.233      0.456      1.604      1.000
+     1.604      1.890      0.171      1.604      1.000
+     1.604      0.982      0.334      1.604      1.000
+     0.983      0.993      0.652      1.604      0.613
+     1.604      0.793      0.323      1.604      1.000
+     1.604      4.678      0.906      1.604      1.000
+     1.604      2.020      0.326      1.604      1.000
+     1.604      1.091      0.225      1.604      1.000
+     1.604      0.799      0.204      1.604      1.000
+     1.604      1.895      0.345      1.604      1.000
+     1.054      1.213      0.308      1.604      0.657
+     1.604      1.048      0.377      1.604      1.000
+     1.604      1.067      0.382      1.604      1.000
+     1.604      1.540      0.552      1.604      1.000
+     1.604      1.053      0.177      1.604      1.000
+     1.604      2.932      0.316      1.604      1.000
+     1.604      1.673      0.682      1.604      1.000
+     1.604      2.013      0.931      1.604      1.000
+     1.604      0.845      0.327      1.604      1.000
+     1.604      1.126      0.652      1.604      1.000
+     1.604      1.772      0.320      1.604      1.000
+     1.604      1.500      0.345      1.604      1.000
+     1.604      2.357      0.217      1.604      1.000
+     1.604      0.720      0.290      1.604      1.000
+     1.604      0.878      0.408      1.604      1.000
+     1.604      1.235      0.278      1.604      1.000
+     1.604      1.925      0.242      1.604      1.000
+     1.604      1.561      0.313      1.604      1.000
+     1.604      1.412      0.281      1.604      1.000
+     1.604      1.395      0.471      1.604      1.000
+     1.604      1.584      0.298      1.604      1.000
+     1.604      0.648      0.407      1.604      1.000
+     1.604      2.200      0.378      1.604      1.000
+     1.604      1.333      0.170      1.604      1.000
+     1.604      2.269      0.369      1.604      1.000
+     1.604      0.797      0.269      1.604      1.000
+     1.604      1.074      0.251      1.604      1.000
+     1.604      1.781      0.303      1.604      1.000
+     1.604      1.029      0.202      1.604      1.000
+     1.604      1.365      0.358      1.604      1.000
+     1.604      0.651      0.594      1.604      1.000
+     1.604      1.307      0.207      1.604      1.000
+     1.604      0.859      0.198      1.604      1.000
+     1.604      0.893      0.350      1.604      1.000
+     1.604      1.658      0.477      1.604      1.000
+     1.392      2.839      1.115      1.604      0.868
+     1.604      1.891      1.020      1.604      1.000
+     1.604      1.973      0.163      1.604      1.000
+     1.604      1.048      0.630      1.604      1.000
+     1.604      1.575      1.471      1.604      1.000
+     1.604      1.112      0.145      1.604      1.000
+     1.604      0.486      0.325      1.604      1.000
+     1.604      1.782      0.393      1.604      1.000
+     1.604      2.428      0.530      1.604      1.000
+     1.604      1.686      0.454      1.604      1.000
+     1.604      0.678      0.403      1.604      1.000
+     1.604      1.727      0.498      1.604      1.000
+     1.604      1.365      0.544      1.604      1.000
+     1.604      1.519      0.397      1.604      1.000
+     1.604      0.705      0.366      1.604      1.000
+     1.604      1.202      0.476      1.604      1.000
+     1.604      0.823      0.681      1.604      1.000
+     1.604      0.679      0.199      1.604      1.000
+     1.604      1.336      0.306      1.604      1.000
+     1.604      0.673      0.278      1.604      1.000
+     1.604      2.490      0.312      1.604      1.000
+     1.141      0.858      0.164      1.604      0.711
+     1.604      0.761      0.415      1.604      1.000
+     1.604      1.246      0.444      1.604      1.000
+     1.604      1.718      0.663      1.604      1.000
+     1.604      1.254      0.293      1.604      1.000
+     1.604      1.083      0.378      1.604      1.000
+     1.272      1.021      0.269      1.604      0.793
+     1.604      0.792      0.296      1.604      1.000
+     1.604      3.462      0.359      1.604      1.000
+     1.604      2.511      0.644      1.604      1.000
+     1.604      0.840      0.154      1.604      1.000
+     1.604      1.402      0.148      1.604      1.000
+     1.604      0.969      0.184      1.604      1.000
+     1.604      1.162      0.199      1.604      1.000
+     1.604      0.607      0.169      1.604      1.000
+     1.604      1.257      0.977      1.604      1.000
+     1.026      0.861      0.414      1.604      0.640
+     1.604      1.861      0.593      1.604      1.000
+     1.604      1.532      0.197      1.604      1.000
+     1.604      2.843      0.243      1.604      1.000
+     1.051      2.084      0.663      1.604      0.655
+     1.604      0.711      0.200      1.604      1.000
+     1.604      1.045      0.164      1.604      1.000
+     1.604      1.058      0.549      1.604      1.000
+     1.604      0.894      0.412      1.604      1.000
